@@ -24,7 +24,7 @@ export default buildConfig({
     user: 'users',
     bundler: webpackBundler(),
     meta: {
-      titleSuffix: '- Salamantra Gráfica',
+      titleSuffix: '- DigitalHippo',
       favicon: '/favicon.ico',
       ogImage: '/thumbnail.jpg',
     },
